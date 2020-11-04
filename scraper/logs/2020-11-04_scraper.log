@@ -1,0 +1,97 @@
+list(platform = "x86_64-pc-linux-gnu", arch = "x86_64", os = "linux-gnu", system = "x86_64, linux-gnu", status = "", major = "4", minor = "0.3", year = "2020", month = "10", day = "10", `svn rev` = "79318", language = "R", version.string = "R version 4.0.3 (2020-10-10)", nickname = "Bunny-Wunnies Freak Out")x86_64-pc-linux-gnu (64-bit)LC_CTYPE=en_US.UTF-8;LC_NUMERIC=C;LC_TIME=en_US.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=en_US.UTF-8;LC_MESSAGES=C;LC_PAPER=en_US.UTF-8;LC_NAME=C;LC_ADDRESS=C;LC_TELEPHONE=C;LC_MEASUREMENT=en_US.UTF-8;LC_IDENTIFICATION=CUbuntu 20.04.1 LTSc("Mersenne-Twister", "Inversion", "Rejection")c("stats", "graphics", "grDevices", "utils", "datasets", "methods", "base")list(compiler = list(Package = "compiler", Version = "4.0.3", Priority = "base", Title = "The R Compiler Package", Author = "Luke Tierney <luke-tierney@uiowa.edu>", Maintainer = "R Core Team <R-core@r-project.org>", Description = "Byte code compiler for R.", License = "Part of R 4.0.3", Built = "R 4.0.3; ; 2020-11-03 22:20:24 UTC; unix"), yaml = list(Package = "yaml", Type = "Package", Title = "Methods to Convert R Data to YAML and Back", Date = "2020-01-23", Version = "2.2.1", Suggests = "RUnit", 
+    Author = "Jeremy Stephens [aut, cre], Kirill Simonov [aut], Yihui Xie [ctb],\n  Zhuoer Dong [ctb], Hadley Wickham [ctb], Jeffrey Horner [ctb], reikoch [ctb],\n  Will Beasley [ctb], Brendan O'Connor [ctb], Gregory R. Warnes [ctb]", Maintainer = "Jeremy Stephens <jeremy.f.stephens@vumc.org>", License = "BSD_3_clause + file LICENSE", Description = "Implements the 'libyaml' 'YAML' 1.1 parser and emitter\n  (<http://pyyaml.org/wiki/LibYAML>) for R.", URL = "https://github.com/viking/r-yaml/", BugReports = "https://github.com/viking/r-yaml/issues", 
+    NeedsCompilation = "yes", Packaged = "2020-01-30 20:29:56 UTC; stephej1", Repository = "RSPM", `Date/Publication` = "2020-02-01 05:50:02 UTC", Encoding = "UTF-8", Built = "R 4.0.0; x86_64-pc-linux-gnu; 2020-06-11 12:02:42 UTC; unix"))default/usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.8.so/usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.8.soNULLNULL
+Loading required package: xml2
+Cannot scrap data from link: https://www.inverse.com/science/vote-fat-bear-week-2020
+Cannot scrap data from link: https://www.inverse.com/science/vote-fat-bear-week-2020
+Cannot scrap data from link: https://www.inverse.com/mind-body/daylight-saving-time-sunday-2020
+Cannot scrap data from link: https://www.inverse.com/mind-body/daylight-saving-time-sunday-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/dune-trailer-breakdown-easter-eggs-2020-worms
+Cannot scrap data from link: https://www.inverse.com/entertainment/dune-trailer-breakdown-easter-eggs-2020-worms
+Cannot scrap data from link: https://www.inverse.com/entertainment/new-movies-list-fall-2020-sci-fi
+Cannot scrap data from link: https://www.inverse.com/entertainment/new-movies-list-fall-2020-sci-fi
+Cannot scrap data from link: https://www.inverse.com/gaming/5-numbers-that-explain-nintendos-enviable-position-in-2020
+Cannot scrap data from link: https://www.inverse.com/gaming/5-numbers-that-explain-nintendos-enviable-position-in-2020
+Cannot scrap data from link: https://www.inverse.com/science/astrogeology-maps-are-guiding-the-2020-mars-mission
+Cannot scrap data from link: https://www.inverse.com/science/astrogeology-maps-are-guiding-the-2020-mars-mission
+Cannot scrap data from link: https://www.inverse.com/entertainment/dune-2020-release-date-movie-show
+Cannot scrap data from link: https://www.inverse.com/entertainment/dune-2020-release-date-movie-show
+Cannot scrap data from link: https://www.inverse.com/entertainment/science-fiction-netflix-august-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/science-fiction-netflix-august-2020
+Cannot scrap data from link: https://www.inverse.com/culture/jane-goodall-interview-2020
+Cannot scrap data from link: https://www.inverse.com/culture/jane-goodall-interview-2020
+Cannot scrap data from link: https://www.inverse.com/science/mexico-cave-finding-2020
+Cannot scrap data from link: https://www.inverse.com/science/mexico-cave-finding-2020
+Cannot scrap data from link: https://www.inverse.com/innovation/the-2020s-20-science-tech-predictions-for-the-new-decade
+Cannot scrap data from link: https://www.inverse.com/innovation/the-2020s-20-science-tech-predictions-for-the-new-decade
+Cannot scrap data from link: https://www.inverse.com/entertainment/movies-leaving-netflix-august-2020-science-fiction
+Cannot scrap data from link: https://www.inverse.com/entertainment/movies-leaving-netflix-august-2020-science-fiction
+Cannot scrap data from link: https://www.inverse.com/entertainment/best-netflix-science-fiction-shows-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/best-netflix-science-fiction-shows-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/comic-con-at-home-2020-amazon-panels-boys-upload-season-2
+Cannot scrap data from link: https://www.inverse.com/entertainment/comic-con-at-home-2020-amazon-panels-boys-upload-season-2
+Cannot scrap data from link: https://www.inverse.com/entertainment/nintendo-switch-games-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/nintendo-switch-games-2020
+Cannot scrap data from link: https://www.inverse.com/gaming/8-best-games-of-the-year-so-far-july-2020-edition
+Cannot scrap data from link: https://www.inverse.com/gaming/8-best-games-of-the-year-so-far-july-2020-edition
+Cannot scrap data from link: https://www.inverse.com/gaming/2020-most-anticipated-games
+Cannot scrap data from link: https://www.inverse.com/gaming/2020-most-anticipated-games
+Cannot scrap data from link: https://www.inverse.com/science/amazing-exoplanet-science-2020
+Cannot scrap data from link: https://www.inverse.com/science/amazing-exoplanet-science-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/netflix-sense8-pride-month-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/netflix-sense8-pride-month-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/every-2020-superhero-movie-ranked-by-hype
+Cannot scrap data from link: https://www.inverse.com/entertainment/every-2020-superhero-movie-ranked-by-hype
+Cannot scrap data from link: https://www.inverse.com/science/coolest-science-photos-may-31-2020
+Cannot scrap data from link: https://www.inverse.com/science/coolest-science-photos-may-31-2020
+Cannot scrap data from link: https://www.inverse.com/science/coolest-space-photos-may-29-2020
+Cannot scrap data from link: https://www.inverse.com/science/coolest-space-photos-may-29-2020
+Cannot scrap data from link: https://www.inverse.com/science/covid-19-summer-2020
+Cannot scrap data from link: https://www.inverse.com/science/covid-19-summer-2020
+Cannot scrap data from link: https://www.inverse.com/innovation/10-amazing-electric-cars-we-could-see-in-the-2020s
+Cannot scrap data from link: https://www.inverse.com/innovation/10-amazing-electric-cars-we-could-see-in-the-2020s
+Cannot scrap data from link: https://www.inverse.com/entertainment/2020-ultimate-binge-guide
+Cannot scrap data from link: https://www.inverse.com/entertainment/2020-ultimate-binge-guide
+Cannot scrap data from link: https://www.inverse.com/mind-body/eating-disorder-week-2020
+Cannot scrap data from link: https://www.inverse.com/mind-body/eating-disorder-week-2020
+Cannot scrap data from link: https://www.inverse.com/science/history-repeats-itself-thats-bad-news-for-the-2020s
+Cannot scrap data from link: https://www.inverse.com/science/history-repeats-itself-thats-bad-news-for-the-2020s
+Cannot scrap data from link: https://www.inverse.com/science/62143-everything-to-know-about-meteor-showers-in-2020
+Cannot scrap data from link: https://www.inverse.com/science/62143-everything-to-know-about-meteor-showers-in-2020
+Cannot scrap data from link: https://www.inverse.com/entertainment/57288-ari-aster-how-movies-can-be-a-force-for-good-in-the-2020s
+Cannot scrap data from link: https://www.inverse.com/entertainment/57288-ari-aster-how-movies-can-be-a-force-for-good-in-the-2020s
+Cannot scrap data from link: https://www.inverse.com/article/56110-hurricane-season-when-is-it-what-to-know-about-2019
+Cannot scrap data from link: https://www.inverse.com/article/56110-hurricane-season-when-is-it-what-to-know-about-2019
+Cannot scrap data from link: https://www.inverse.com/article/52961-measles-outbreak-2019-deadly-virus-everything-to-know-vaccination
+Cannot scrap data from link: https://www.inverse.com/article/52961-measles-outbreak-2019-deadly-virus-everything-to-know-vaccination
+Cannot scrap data from link: https://www.inverse.com/article/52912-israel-first-mission-to-the-moon-robotic-lander-february-2019-spaceil
+Cannot scrap data from link: https://www.inverse.com/article/52912-israel-first-mission-to-the-moon-robotic-lander-february-2019-spaceil
+Cannot scrap data from link: https://www.inverse.com/article/52846-polar-vortex-2019
+Cannot scrap data from link: https://www.inverse.com/article/52846-polar-vortex-2019
+Cannot scrap data from link: https://www.inverse.com/article/52416-2019-nfl-playoffs-predictions-and-winner-for-colts-vs-chiefs
+Cannot scrap data from link: https://www.inverse.com/article/52416-2019-nfl-playoffs-predictions-and-winner-for-colts-vs-chiefs
+Cannot scrap data from link: https://www.inverse.com/article/52365-why-bitcoin-is-failing-2019-crypto-market
+Cannot scrap data from link: https://www.inverse.com/article/52365-why-bitcoin-is-failing-2019-crypto-market
+Cannot scrap data from link: https://www.inverse.com/article/52248-college-football-national-championship-2019-full-preivew-and-winner-for-alabama-vs-clemson
+Cannot scrap data from link: https://www.inverse.com/article/52248-college-football-national-championship-2019-full-preivew-and-winner-for-alabama-vs-clemson
+Cannot scrap data from link: https://www.inverse.com/article/52156-sugar-bowl-2019-predictions-who-will-win-texas-vs-georgia
+Cannot scrap data from link: https://www.inverse.com/article/52156-sugar-bowl-2019-predictions-who-will-win-texas-vs-georgia
+Cannot scrap data from link: https://www.inverse.com/article/52157-rose-bowl-2019-full-predictions-for-washington-vs-ohio-state
+Cannot scrap data from link: https://www.inverse.com/article/52157-rose-bowl-2019-full-predictions-for-washington-vs-ohio-state
+Cannot scrap data from link: https://www.inverse.com/article/52155-citrus-bowl-2018-preview-and-a-i-prediction-for-penn-state-vs-kentucky
+Cannot scrap data from link: https://www.inverse.com/article/52155-citrus-bowl-2018-preview-and-a-i-prediction-for-penn-state-vs-kentucky
+Cannot scrap data from link: https://www.inverse.com/article/52082-college-football-playoffs-2018-predictions-for-clemson-vs-notre-dame
+Cannot scrap data from link: https://www.inverse.com/article/52082-college-football-playoffs-2018-predictions-for-clemson-vs-notre-dame
+Cannot scrap data from link: https://www.inverse.com/article/52136-peach-bowl-2018-preview-and-prediction-for-florida-vs-michigan
+Cannot scrap data from link: https://www.inverse.com/article/52136-peach-bowl-2018-preview-and-prediction-for-florida-vs-michigan
+Cannot scrap data from link: https://www.inverse.com/article/50712-seahawks-vs-rams-2018-prediction-ai-predicts
+Cannot scrap data from link: https://www.inverse.com/article/50712-seahawks-vs-rams-2018-prediction-ai-predicts
+Cannot scrap data from link: https://www.inverse.com/article/46907-pokemon-go-fest-2018-fans-forgive-niantic
+Cannot scrap data from link: https://www.inverse.com/article/46907-pokemon-go-fest-2018-fans-forgive-niantic
+Cannot scrap data from link: https://www.inverse.com/article/42223-march-madness-2018-bracket
+Cannot scrap data from link: https://www.inverse.com/article/42223-march-madness-2018-bracket
+Warning message:
+In write.csv(x = article_df, file = csv_dest, row.names = FALSE,  :
+  attempt to set 'append' ignored
+Warning message:
+In sink() : no sink to remove

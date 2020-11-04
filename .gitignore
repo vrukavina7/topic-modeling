@@ -1,0 +1,6 @@
+*.Rhistory
+*.Rproj
+*.rstudio
+*.Rproj.user
+*.local
+*.config

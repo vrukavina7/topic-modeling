@@ -1,0 +1,24 @@
+---
+root_url: 'https://www.inverse.com'
+archive_url: 'https://www.inverse.com/archive'
+years_to_scrap:
+  - '2020'
+  - '2019'
+  - '2018'
+archive_selector:
+  class: '.AqC'
+  node: 'a'
+  attr: 'href'
+article_selector:
+  title:
+    node: 'h1'
+  author:
+    node: 'a.Neu'
+  pubdate:
+    node: 'time.KET'
+    attr: 'datetime'
+  content:
+    node: '.AqC'
+log_dir: 'logs'
+destination_dir: 'output'
+...

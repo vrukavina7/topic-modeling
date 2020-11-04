@@ -1,0 +1,30 @@
+version: '3'
+services:
+  scraper:
+    env_file: "${SCRAPER_ENV}"
+    build: "${SCRAPER_BUILD}"
+    container_name: 'scraper-app'
+    volumes:
+      - "${SCRAPER_VOLUME}:${WORKDIR}"
+    entrypoint: ['/bin/bash', "${WORKDIR}/runner.sh"]
+  modeling:
+    env_file: "${MODELING_ENV}"
+    build: "${MODELING_BUILD}"
+    container_name: 'modeling-app'
+    volumes:
+      - "${SCRAPER_VOLUME}/output:${WORKDIR}/scraper-output"
+      - "${MODELING_VOLUME}:${WORKDIR}"
+    entrypoint: ['/bin/bash', "${WORKDIR}/runner.sh"]
+  shiny:
+    env_file: "${SHINY_ENV}"
+    build: "${SHINY_BUILD}"
+    container_name: 'shiny-app'
+    restart: unless-stopped
+    volumes:
+      - "${MODELING_VOLUME}/output:/app/modeling-output"
+      - "${SHINY_VOLUME}:${WORKDIR}"
+    ports:
+      - target: "${SHINY_PORT_TARGET}"
+        published: "${SHINY_PORT_PUBLISHED}"
+        protocol: tcp
+        mode: host

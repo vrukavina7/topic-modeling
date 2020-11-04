@@ -1,0 +1,169 @@
+list(platform = "x86_64-pc-linux-gnu", arch = "x86_64", os = "linux-gnu", system = "x86_64, linux-gnu", status = "", major = "4", minor = "0.3", year = "2020", month = "10", day = "10", `svn rev` = "79318", language = "R", version.string = "R version 4.0.3 (2020-10-10)", nickname = "Bunny-Wunnies Freak Out")x86_64-pc-linux-gnu (64-bit)LC_CTYPE=en_US.UTF-8;LC_NUMERIC=C;LC_TIME=en_US.UTF-8;LC_COLLATE=en_US.UTF-8;LC_MONETARY=en_US.UTF-8;LC_MESSAGES=C;LC_PAPER=en_US.UTF-8;LC_NAME=C;LC_ADDRESS=C;LC_TELEPHONE=C;LC_MEASUREMENT=en_US.UTF-8;LC_IDENTIFICATION=CUbuntu 20.04.1 LTSc("Mersenne-Twister", "Inversion", "Rejection")c("stats", "graphics", "grDevices", "utils", "datasets", "methods", "base")list(compiler = list(Package = "compiler", Version = "4.0.3", Priority = "base", Title = "The R Compiler Package", Author = "Luke Tierney <luke-tierney@uiowa.edu>", Maintainer = "R Core Team <R-core@r-project.org>", Description = "Byte code compiler for R.", License = "Part of R 4.0.3", Built = "R 4.0.3; ; 2020-11-03 22:20:24 UTC; unix"), yaml = list(Package = "yaml", Type = "Package", Title = "Methods to Convert R Data to YAML and Back", Date = "2020-01-23", Version = "2.2.1", Suggests = "RUnit", 
+    Author = "Jeremy Stephens [aut, cre], Kirill Simonov [aut], Yihui Xie [ctb],\n  Zhuoer Dong [ctb], Hadley Wickham [ctb], Jeffrey Horner [ctb], reikoch [ctb],\n  Will Beasley [ctb], Brendan O'Connor [ctb], Gregory R. Warnes [ctb]", Maintainer = "Jeremy Stephens <jeremy.f.stephens@vumc.org>", License = "BSD_3_clause + file LICENSE", Description = "Implements the 'libyaml' 'YAML' 1.1 parser and emitter\n  (<http://pyyaml.org/wiki/LibYAML>) for R.", URL = "https://github.com/viking/r-yaml/", BugReports = "https://github.com/viking/r-yaml/issues", 
+    NeedsCompilation = "yes", Packaged = "2020-01-30 20:29:56 UTC; stephej1", Repository = "RSPM", `Date/Publication` = "2020-02-01 05:50:02 UTC", Encoding = "UTF-8", Built = "R 4.0.0; x86_64-pc-linux-gnu; 2020-06-11 12:02:42 UTC; unix"))default/usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.8.so/usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.8.soNULLNULL
+Loading required package: NLP
+Loading required package: koRpus.lang.en
+Loading required package: koRpus
+Loading required package: sylly
+For information on available language packages for 'koRpus', run
+
+  available.koRpus.lang()
+
+and see ?install.koRpus.lang()
+
+
+Attaching package: ‘koRpus’
+
+The following object is masked from ‘package:tm’:
+
+    readTagged
+
+Loading required package: foreach
+Loading required package: iterators
+Loading required package: snow
+
+Attaching package: ‘snow’
+
+The following objects are masked from ‘package:parallel’:
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, clusterSplit, makeCluster, parApply,
+    parCapply, parLapply, parRapply, parSapply, splitIndices,
+    stopCluster
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:data.table’:
+
+    between, first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘slam’
+
+The following object is masked from ‘package:data.table’:
+
+    rollup
+
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 5.54517744447956
+Epoch: Iteration #200 error is: -2.85922857046601e-16
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 6.55834415515174
+Epoch: Iteration #200 error is: 1.57376587680664e-16
+Epoch: Iteration #300 error is: -2.75068510511624e-16
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 7.71780442926176
+Epoch: Iteration #200 error is: 0.0489061413717607
+Epoch: Iteration #300 error is: 0.048726511060412
+Epoch: Iteration #400 error is: 0.0487265035016214
+Epoch: Iteration #500 error is: 0.0487265033104577
+Epoch: Iteration #600 error is: 0.0487265029613069
+Epoch: Iteration #700 error is: 0.0487265024583838
+Epoch: Iteration #800 error is: 0.0487265018024046
+Epoch: Iteration #900 error is: 0.0487265009930833
+Epoch: Iteration #1000 error is: 0.0487265000296326
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 6.74725006957416
+Epoch: Iteration #200 error is: 0.110677321732216
+Epoch: Iteration #300 error is: 0.110466839036294
+Epoch: Iteration #400 error is: 0.110463096455312
+Epoch: Iteration #500 error is: 0.110463096154144
+Epoch: Iteration #600 error is: 0.110463095726472
+Epoch: Iteration #700 error is: 0.11046309511526
+Epoch: Iteration #800 error is: 0.110463094327597
+Epoch: Iteration #900 error is: 0.1104630933664
+Epoch: Iteration #1000 error is: 0.110463092232788
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 11.7685214194787
+Epoch: Iteration #200 error is: 0.199239695566671
+Epoch: Iteration #300 error is: 0.163407787044427
+Epoch: Iteration #400 error is: 0.15995798956387
+Epoch: Iteration #500 error is: 0.132730786442829
+Epoch: Iteration #600 error is: 0.1310140377321
+Epoch: Iteration #700 error is: 0.131013925408757
+Epoch: Iteration #800 error is: 0.131013925363977
+Epoch: Iteration #900 error is: 0.131013925363042
+Epoch: Iteration #1000 error is: 0.131013925361723
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 13.0623284793713
+Epoch: Iteration #200 error is: 0.172120339506304
+Epoch: Iteration #300 error is: 0.158648638107208
+Epoch: Iteration #400 error is: 0.158648637720127
+Epoch: Iteration #500 error is: 0.158648636660387
+Epoch: Iteration #600 error is: 0.15864863489524
+Epoch: Iteration #700 error is: 0.158648632423857
+Epoch: Iteration #800 error is: 0.158648629242333
+Epoch: Iteration #900 error is: 0.158648625344911
+Epoch: Iteration #1000 error is: 0.158648620724228
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 13.3618466138324
+Epoch: Iteration #200 error is: 0.72023491773926
+Epoch: Iteration #300 error is: 0.269631788500053
+Epoch: Iteration #400 error is: 0.221228215532446
+Epoch: Iteration #500 error is: 0.203918195772451
+Epoch: Iteration #600 error is: 0.200591320108887
+Epoch: Iteration #700 error is: 0.199587720624194
+Epoch: Iteration #800 error is: 0.199105376605027
+Epoch: Iteration #900 error is: 0.198899905706589
+Epoch: Iteration #1000 error is: 0.198829436279938
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 9.02573384765796
+Epoch: Iteration #200 error is: 0.244332912208618
+Epoch: Iteration #300 error is: 0.241378027714735
+Epoch: Iteration #400 error is: 0.231854555203481
+Epoch: Iteration #500 error is: 0.225996422014031
+Epoch: Iteration #600 error is: 0.225984633333765
+Epoch: Iteration #700 error is: 0.225984299686938
+Epoch: Iteration #800 error is: 0.225984056920513
+Epoch: Iteration #900 error is: 0.225983959015335
+Epoch: Iteration #1000 error is: 0.225983934797233
+`summarise()` ungrouping output (override with `.groups` argument)
+sigma summary: Min. : 33554432 |1st Qu. : 33554432 |Median : 33554432 |Mean : 33554432 |3rd Qu. : 33554432 |Max. : 33554432 |
+Epoch: Iteration #100 error is: 9.79490582944091
+Epoch: Iteration #200 error is: 0.27202631248553
+Epoch: Iteration #300 error is: 0.252008330672176
+Epoch: Iteration #400 error is: 0.251941229439233
+Epoch: Iteration #500 error is: 0.251935721444124
+Epoch: Iteration #600 error is: 0.251935584613216
+Epoch: Iteration #700 error is: 0.251935584213042
+Epoch: Iteration #800 error is: 0.251935583953616
+Epoch: Iteration #900 error is: 0.251935583583159
+Epoch: Iteration #1000 error is: 0.251935583106406
+`summarise()` ungrouping output (override with `.groups` argument)
+Warning messages:
+1: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+2: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+3: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+4: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+5: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+6: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+7: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+8: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+9: In if (class(X) == "dist") { :
+  the condition has length > 1 and only the first element will be used
+Warning message:
+In sink() : no sink to remove

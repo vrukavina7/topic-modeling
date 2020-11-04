@@ -1,0 +1,31 @@
+version: '3'
+services:
+  scraper:
+    env_file: "${SCRAPER_ENV}"
+    build: "${SCRAPER_BUILD}"
+    container_name: 'scraper-app'
+    environment:
+      - USER=rstudio
+      - PASSWORD=supersecrete
+    volumes:
+      - "${SCRAPER_VOLUME}:${WORKDIR}"
+    ports:
+    - target: 8787
+      published: 3838
+      protocol: tcp
+      mode: host
+  modeling:
+    env_file: "${MODELING_ENV}"
+    build: "${MODELING_BUILD}"
+    container_name: 'modeling-app'
+    environment:
+      - USER=rstudio
+      - PASSWORD=supersecrete
+    volumes:
+      - "${SCRAPER_VOLUME}/output:${WORKDIR}/scraper-output"
+      - "${MODELING_VOLUME}:${WORKDIR}"
+    ports:
+    - target: "${MODELING_PORT_TARGET}"
+      published: "${MODELING_PORT_PUBLISHED}"
+      protocol: tcp
+      mode: host

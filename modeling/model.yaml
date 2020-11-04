@@ -1,0 +1,25 @@
+---
+data: './scraper-output/articles.RData'
+output_dir: 'output'
+log_dir: 'logs'
+tuning:
+  topics:
+    from: 2
+    to: 10
+    by: 1
+  folds: 5
+  seed: 33
+  burnin: 100 # burnin : number of omitted Gibbs iterations at beginning
+  thin: 10    # thin number of omitted in-between Gibbs iterations
+  iter: 1000
+  best: true
+  keep: 50
+  alpha:
+    num: 5
+    min: 0.02
+    max: 0.1
+  delta:
+    num: 5
+    min: 0.02
+    max: 0.1
+...
